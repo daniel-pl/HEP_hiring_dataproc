@@ -1,4 +1,4 @@
-# HEP_hiring_dataprocessing
+# HEP_hiring_dataproc
 
 Tools for processing data from [INSPIRE-HEP](http://inspirehep.net) database, used in the [HEP Hiring Networks app](https://daniel-pl.shinyapps.io/HEP_hiring/). 
 
